@@ -1,0 +1,20 @@
+{
+  "name": "practice-problems",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/matyastr/practice-problems#readme",
+  "bugs": {
+    "url": "https://github.com/matyastr/practice-problems/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matyastr/practice-problems.git"
+  },
+  "license": "ISC",
+  "author": "Tim Matyas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
